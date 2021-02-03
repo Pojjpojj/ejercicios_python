@@ -8,3 +8,5 @@ Script que pregunta el nombre del usuario en la consola y después de que el usu
 
 name = input("Introduce tu nombre: ")
 print("¡Hola " + name + “!")
+
+# probando un comentario
